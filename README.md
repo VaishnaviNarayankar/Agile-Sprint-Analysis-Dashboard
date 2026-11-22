@@ -5,7 +5,8 @@
 An interactive Power BI dashboard designed to analyze Agile sprint performance, monitor task progress, and evaluate project execution. The project combines Excel VBA automation, Azure DevOps work-item management, and Power BI reporting to streamline sprint planning, task tracking, and performance analysis.
 
 ## 📷 Dashboard Preview
-![Agile Sprint Analysis Dashboard](images/agile-sprint-dashboard.png)
+
+<img width="1200" height="676" alt="Screenshot 2026-11-22 133527" src="https://github.com/user-attachments/assets/df4f1ec3-ca76-4272-bf0f-1ec4c46238a5" />
 
 ## 🎯 Project Objectives
 - ⚙️ Automate the creation of Agile work items in Azure DevOps.
